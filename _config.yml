@@ -4,13 +4,13 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-title:            Techdesk
+title:            TekDesk
 tagline:          'The talkdesk tech blog'
-description:      'The tech <a href="http://talkdesk.com" target="_blank">talkdesk</a> tech block.'
-url:              http://joaoptrindade.com
+description:      'The <a href="http://talkdesk.com" target="_blank">talkdesk</a> tech blog.'
+url:              http://joaoptrindade.com/hyde/
 baseurl:          /hyde/
 
 author:
