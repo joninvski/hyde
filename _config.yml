@@ -10,8 +10,11 @@ relative_permalinks: false
 title:            TekDesk
 tagline:          'The talkdesk tech blog'
 description:      'The <a href="http://talkdesk.com" target="_blank">talkdesk</a> tech blog.'
-url:              http://joaoptrindade.com/hyde/
+url:              http://joaoptrindade.com/
 baseurl:          /hyde/
+safe:             true
+auto:             true
+server:           true
 
 author:
   name:           'Joao Trindade'
